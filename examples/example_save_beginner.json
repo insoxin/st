@@ -1,0 +1,14 @@
+{
+  "name": "旺财",
+  "pet_type": "小狗",
+  "level": 1,
+  "exp": 5,
+  "health": 100.0,
+  "happiness": 100.0,
+  "hunger": 0.0,
+  "energy": 100.0,
+  "age": 0,
+  "skills": {},
+  "last_update": "2026-02-04T07:00:00.000000",
+  "created_at": "2026-02-04T07:00:00.000000"
+}
